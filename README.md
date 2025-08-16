@@ -6,7 +6,7 @@ This repository is a **comprehensive showcase** of my learning journey in **Data
 It includes:  
 ✅ **Internship Experiences**  
 ✅ **Coding Competitions & CodeAir**  
-✅ **Professional Certifications** from platforms like **Udemy, Simplilearn, Great Learning, Coursera**  
+✅ **Professional Certifications** from platforms like **Udemy, Simplilearn, Great Learning**  
 ✅ **Workshops & Academic Certifications**  
 
 
