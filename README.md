@@ -80,7 +80,7 @@ It includes:
 
 1. Navigate to the desired folder:  
    - `Internships/` → Internship certificates  
-   - `Competitions/` → Coding competitions (HackerRank, CodeAir, Kaggle, etc.)  
+   - `Competitions/` → Coding competitions (airtech, CodeAir,etc.)  
    - `Online_Courses/` → Udemy, Simplilearn, Great Learning  
    - `Academic/` → University certificates  
 
